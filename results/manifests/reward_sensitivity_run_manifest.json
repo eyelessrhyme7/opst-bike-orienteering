@@ -1,0 +1,23 @@
+{
+  "algorithms": [
+    "exact_subset_dp",
+    "best_single",
+    "service_density_then_route",
+    "cheapest_insertion",
+    "split_only_grid",
+    "split_compact_grid"
+  ],
+  "compact_candidate_trace_count": 0,
+  "compact_trace_output": "",
+  "ended_at_utc": "2026-11-10T07:46:58.716305+00:00",
+  "error_count": 0,
+  "input_manifest": "data\\instances\\reward_sensitivity\\manifest.csv",
+  "output_results": "results\\raw\\reward_sensitivity_results.csv",
+  "row_count": 432,
+  "run_id": "reward_sensitivity",
+  "solution_record_count": 0,
+  "solutions_output": "",
+  "split_trace_count": 0,
+  "split_trace_output": "",
+  "started_at_utc": "2026-11-10T07:46:51.937220+00:00"
+}

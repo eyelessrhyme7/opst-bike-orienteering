@@ -1,0 +1,7 @@
+algorithm,reward,opt_reward,reward_ratio,travel_time_s,service_time_s,total_time_s,budget_s,selected_count,chosen_alpha,chosen_pool_type
+exact_subset_dp,24,24,1.0,429,735,1164,1168,3,,
+best_single,12,24,0.5,330,285,615,1168,1,,
+service_density_then_route,22,24,0.9166666666666666,527,615,1142,1168,3,,
+cheapest_insertion,22,24,0.9166666666666666,389,675,1064,1168,3,,
+split_only_grid,22,24,0.9166666666666666,389,675,1064,1168,3,0.25,all
+split_compact_grid,24,24,1.0,429,735,1164,1168,3,0.5,cell_plus_ring

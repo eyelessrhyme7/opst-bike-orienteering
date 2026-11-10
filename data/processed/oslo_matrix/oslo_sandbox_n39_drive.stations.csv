@@ -1,0 +1,41 @@
+matrix_index,role,station_id,name,lat,lon,capacity,source_snapshot
+0,depot,384,Vår Frelsers gravlund,59.91944043984847,10.7437646218726,18,oslo_station_information_20261109T163259Z
+1,candidate,422,St. Hanshaugen,59.923703,10.740542,12,oslo_station_information_20261109T163259Z
+2,candidate,499,Bjerregaards gate,59.925488,10.746058,21,oslo_station_information_20261109T163259Z
+3,candidate,432,St. Hanshaugen park sør,59.924821,10.739909,12,oslo_station_information_20261109T163259Z
+4,candidate,518,Schwensens gate,59.92481470756533,10.739355810852345,18,oslo_station_information_20261109T163259Z
+5,candidate,578,Hallings gate,59.922777,10.738655,24,oslo_station_information_20261109T163259Z
+6,candidate,597,Fredensborg,59.920995,10.750358,15,oslo_station_information_20261109T163259Z
+7,candidate,537,St. Olavs gate,59.91780874269165,10.738664052059619,20,oslo_station_information_20261109T163259Z
+8,candidate,391,Colletts gate 31,59.92683548000409,10.738352113653718,15,oslo_station_information_20261109T163259Z
+9,candidate,442,Vulkan,59.92251,10.75101,18,oslo_station_information_20261109T163259Z
+10,candidate,444,AHO,59.925265,10.750462,20,oslo_station_information_20261109T163259Z
+11,candidate,470,St. Hanshaugen park nord,59.92981128213597,10.743587594130702,15,oslo_station_information_20261109T163259Z
+12,candidate,617,Bjerregaardsgate Øst,59.92716771401357,10.749754560118863,21,oslo_station_information_20261109T163259Z
+13,candidate,1023,Professor Aschehougs plass,59.9147672,10.740971,15,oslo_station_information_20261109T163259Z
+14,candidate,476,Edvard Storms gate,59.919111,10.736179,20,oslo_station_information_20261109T163259Z
+15,candidate,526,Lille Grensen,59.9138973,10.7423101,15,oslo_station_information_20261109T163259Z
+16,candidate,608,Colletts gate,59.93068679863987,10.746273349149249,21,oslo_station_information_20261109T163259Z
+17,candidate,400,OsloMet,59.919927,10.735428,25,oslo_station_information_20261109T163259Z
+18,candidate,2337,Universitetsgata,59.91591543378553,10.737834990277321,15,oslo_station_information_20261109T163259Z
+19,candidate,399,Uelands gate,59.929545,10.7489862,36,oslo_station_information_20261109T163259Z
+20,candidate,410,Landstads gate,59.929005,10.7496755,27,oslo_station_information_20261109T163259Z
+21,candidate,620,Bislettgata,59.92377440938114,10.734712874574,40,oslo_station_information_20261109T163259Z
+22,candidate,521,Jess Carlsens gate,59.9186359,10.7523939,15,oslo_station_information_20261109T163259Z
+23,candidate,421,Alexander Kiellands Plass,59.92806670615684,10.751202636819613,24,oslo_station_information_20261109T163259Z
+24,candidate,389,Pilestredet Studenthus,59.9205528,10.7342854,18,oslo_station_information_20261109T163259Z
+25,candidate,396,Kirkeristen,59.91300035973293,10.746760585982287,24,oslo_station_information_20261109T163259Z
+26,candidate,5217,Egertorget,59.9126744968093,10.742025127034452,30,oslo_station_information_20261109T163259Z
+27,candidate,489,Torggata,59.91598309274519,10.75155119076095,30,oslo_station_information_20261109T163259Z
+28,candidate,530,Holbergs plass,59.9193095,10.7343051,10,oslo_station_information_20261109T163259Z
+29,candidate,437,Sentrum Scene,59.91546786564256,10.751140873016311,24,oslo_station_information_20261109T163259Z
+30,candidate,416,Tannlegehøyskolen,59.932383,10.741475,15,oslo_station_information_20261109T163259Z
+31,candidate,469,Studentparlamentet,59.920852,10.733357,30,oslo_station_information_20261109T163259Z
+32,candidate,433,Ila,59.931828,10.748745,18,oslo_station_information_20261109T163259Z
+33,candidate,625,Spikersuppa Øst,59.91336,10.737663,42,oslo_station_information_20261109T163259Z
+34,candidate,585,Nordre gate,59.92114988507087,10.754714015938562,18,oslo_station_information_20261109T163259Z
+35,candidate,2330,Stjerneplassen,59.91323316606503,10.749958763650312,15,oslo_station_information_20261109T163259Z
+36,candidate,577,Arkaden Nord,59.9121472,10.7480527,30,oslo_station_information_20261109T163259Z
+37,candidate,545,Arkaden Sør,59.91188955934541,10.747774569135402,39,oslo_station_information_20261109T163259Z
+38,candidate,387,Studenterlunden,59.914586,10.735453,15,oslo_station_information_20261109T163259Z
+39,candidate,576,Dronningens gate,59.911392299457006,10.747281829592453,18,oslo_station_information_20261109T163259Z

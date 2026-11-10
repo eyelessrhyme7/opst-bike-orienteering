@@ -1,0 +1,6 @@
+matrix_index,role,station_id,name,lat,lon,capacity,source_snapshot
+0,depot,384,Vår Frelsers gravlund,59.91944043984847,10.7437646218726,18,oslo_station_information_20261109T163259Z
+1,candidate,422,St. Hanshaugen,59.923703,10.740542,12,oslo_station_information_20261109T163259Z
+2,candidate,499,Bjerregaards gate,59.925488,10.746058,21,oslo_station_information_20261109T163259Z
+3,candidate,432,St. Hanshaugen park sør,59.924821,10.739909,12,oslo_station_information_20261109T163259Z
+4,candidate,518,Schwensens gate,59.92481470756533,10.739355810852345,18,oslo_station_information_20261109T163259Z

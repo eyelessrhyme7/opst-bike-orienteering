@@ -1,0 +1,14 @@
+instance_id,n,regime,service_scale,budget_tightness,delta_reward_ratio,split_only_ratio,split_compact_ratio,compact_pool_type
+oslo_sandbox_n39_drive_compact_n12_scale0.5_tight_seed4,12,compact,0.5,tight,0.08333333333333337,0.9166666666666666,1.0,cell_plus_ring
+oslo_sandbox_n39_drive_mixed_n12_scale0.5_tight_seed2,12,mixed,0.5,tight,0.07692307692307687,0.9230769230769231,1.0,cell_plus_ring
+oslo_sandbox_n39_drive_outlier_n12_scale0.5_tight_seed4,12,outlier,0.5,tight,0.06666666666666665,0.9333333333333333,1.0,cell_plus_ring
+oslo_sandbox_n39_drive_dispersed_n16_scale1_tight_seed3,16,dispersed,1.0,tight,0.032258064516129004,0.967741935483871,1.0,cell_plus_ring
+oslo_sandbox_n39_drive_compact_n16_scale1_tight_seed3,16,compact,1.0,tight,0.032258064516129004,0.967741935483871,1.0,cell_plus_ring
+oslo_sandbox_n39_drive_dispersed_n16_scale2_tight_seed2,16,dispersed,2.0,tight,0.02941176470588236,0.9705882352941176,1.0,cell_plus_ring
+oslo_sandbox_n39_drive_dispersed_n16_scale1_tight_seed2,16,dispersed,1.0,tight,0.02941176470588236,0.9705882352941176,1.0,cell_plus_ring
+oslo_sandbox_n39_drive_compact_n12_scale2_medium_seed1,12,compact,2.0,medium,0.027027027027026973,0.972972972972973,1.0,cell_plus_ring
+oslo_sandbox_n39_drive_mixed_n16_scale1_tight_seed4,16,mixed,1.0,tight,0.02564102564102566,0.9743589743589743,1.0,cell_plus_ring
+oslo_sandbox_n39_drive_mixed_n16_scale1_medium_seed3,16,mixed,1.0,medium,0.023255813953488413,0.9767441860465116,1.0,cell_plus_ring
+oslo_sandbox_n39_drive_dispersed_n16_scale1_medium_seed2,16,dispersed,1.0,medium,0.02083333333333337,0.9791666666666666,1.0,cell_plus_ring
+oslo_sandbox_n39_drive_mixed_n16_scale0.5_medium_seed4,16,mixed,0.5,medium,0.019230769230769273,0.9807692307692307,1.0,cell_plus_ring
+oslo_sandbox_n39_drive_outlier_n16_scale1_tight_seed2,16,outlier,1.0,tight,0.01851851851851849,0.9814814814814815,1.0,cell_plus_ring

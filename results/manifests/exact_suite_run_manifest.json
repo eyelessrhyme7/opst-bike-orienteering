@@ -1,0 +1,23 @@
+{
+  "algorithms": [
+    "exact_subset_dp",
+    "best_single",
+    "service_density_then_route",
+    "cheapest_insertion",
+    "split_only_grid",
+    "split_compact_grid"
+  ],
+  "compact_candidate_trace_count": 82350,
+  "compact_trace_output": "results\\raw\\exact_suite_compact_candidate_trace.parquet",
+  "ended_at_utc": "2026-11-10T07:31:20.092187+00:00",
+  "error_count": 0,
+  "input_manifest": "data\\instances\\exact_suite\\manifest.csv",
+  "output_results": "results\\raw\\exact_suite_results.csv",
+  "row_count": 3240,
+  "run_id": "exact_suite",
+  "solution_record_count": 3240,
+  "solutions_output": "results\\raw\\exact_suite_solutions.jsonl",
+  "split_trace_count": 16200,
+  "split_trace_output": "results\\raw\\exact_suite_split_trace.parquet",
+  "started_at_utc": "2026-11-10T07:21:36.801240+00:00"
+}

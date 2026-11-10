@@ -1,0 +1,30 @@
+# Secrets and environments
+.env
+.venv/
+
+# Python and tool caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+cache/
+*.log
+
+# Office lock and temp files
+~$*
+*.tmp
+
+# Legacy notebooks and agent/planning notes
+Past Stale Context/
+AGENTS.md
+AGENT_KICKOFF_PROMPT.md
+START_HERE.md
+docs/
+
+# Report working files: only the final PDF and its figures are published
+report/*.md
+report/*.docx
+report/references.bib
+report/assets/page_images/
+scripts/build_phase4_report.py

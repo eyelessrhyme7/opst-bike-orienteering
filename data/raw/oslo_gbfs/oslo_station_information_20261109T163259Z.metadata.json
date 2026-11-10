@@ -1,0 +1,15 @@
+{
+  "attribution": "Oslo City Bike / Oslo Bysykkel official open data",
+  "autodiscovery_url": "https://gbfs.urbansharing.com/oslobysykkel.no/gbfs.json",
+  "client_identifier": "nus-cs4234-opst",
+  "gbfs_last_updated": 1794241965,
+  "gbfs_ttl": 15,
+  "gbfs_version": "2.3",
+  "license": "Norwegian Licence for Open Government Data (NLOD) 2.0",
+  "license_url": "https://data.norge.no/nlod/en/2.0",
+  "retrieved_at_utc": "20261109T163259Z",
+  "sha256": "6d19326359a54a39ea470c359302709c694573fe84e1b994d7c361ced4f7705f",
+  "snapshot_id": "oslo_station_information_20261109T163259Z",
+  "source_url": "https://gbfs.urbansharing.com/oslobysykkel.no/station_information.json",
+  "station_count": 267
+}

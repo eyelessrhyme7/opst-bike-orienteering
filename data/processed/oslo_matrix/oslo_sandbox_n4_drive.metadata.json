@@ -1,0 +1,24 @@
+{
+  "buffer_degrees": 0.005,
+  "candidate_count": 4,
+  "depot_station_id": "384",
+  "matrix_id": "oslo_sandbox_n4_drive",
+  "network_type": "drive",
+  "overpass_url": null,
+  "shape": [
+    5,
+    5
+  ],
+  "snapped_osm_node_ids": [
+    79440,
+    79445,
+    30054165,
+    9432791364,
+    9432791364
+  ],
+  "source_station_csv": "data\\processed\\oslo_stations.csv",
+  "station_count_including_depot": 5,
+  "station_manifest": "data\\processed\\oslo_matrix\\oslo_sandbox_n4_drive.stations.csv",
+  "symmetrization": "ceil((directed_ij + directed_ji) / 2)",
+  "time_unit": "seconds"
+}

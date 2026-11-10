@@ -1,0 +1,7 @@
+algorithm,row_count,feasible_count,error_count,median_reward_ratio,mean_reward_ratio,p10_reward_ratio,min_reward_ratio,median_runtime_ms
+best_single,540,540,0,0.333333333,0.383683924,0.204545455,0.138461538,0.062
+service_density_then_route,540,540,0,1,0.965516103,0.891891892,0.666666667,0.31
+cheapest_insertion,540,540,0,1,0.985580602,0.945945946,0.6,0.354
+split_only_grid,540,540,0,1,0.998055673,1,0.916666667,7.9685
+split_compact_grid,540,540,0,1,0.998953394,1,0.963636364,31.1715
+exact_subset_dp,540,540,0,1,1,1,1,110.6515

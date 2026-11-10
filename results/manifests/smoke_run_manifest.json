@@ -1,0 +1,17 @@
+{
+  "algorithms": [
+    "exact_subset_dp",
+    "best_single",
+    "service_density_then_route",
+    "cheapest_insertion",
+    "split_only_grid",
+    "split_compact_grid"
+  ],
+  "ended_at_utc": "2026-11-09T16:58:15.302205+00:00",
+  "error_count": 0,
+  "input_manifest": "data\\instances\\smoke\\manifest.csv",
+  "output_results": "results\\raw\\smoke_results.csv",
+  "row_count": 216,
+  "run_id": "smoke",
+  "started_at_utc": "2026-11-09T16:58:14.525306+00:00"
+}
